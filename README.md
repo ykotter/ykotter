@@ -11,7 +11,7 @@
   <img align="center" alt="Kotter-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kotter-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kotter-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="image" height="150" style="border-radius:50px;" src=https://c.tenor.com/gVMHczWXBycAAAAM/helltaker.gif>
+  <img align="right" alt="image" height="150" style="border-radius:50px;" src=https://c.tenor.com/Oexy7G27HxMAAAAC/best-girl.gif>
 </div>
   
   ##
